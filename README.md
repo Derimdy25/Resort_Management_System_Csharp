@@ -16,15 +16,15 @@ A simple admin panel for managing system for hotel built using C#, WindowsForms,
     <li>Admin adds new room reservations, and as soon as the room is booked it becomes unavailable, so no one else can book it unless someone cancels the reservation</li>
 </ul>
 
-   ![login](https://github.com/user-attachments/assets/3e1859f1-357b-4bf2-8d27-d3812bcdaaa9)
+   ![login](https://github.com/user-attachments/assets/b797101d-0218-4b5c-853d-37057450c002)
     <br>
-    ![clients](https://user-images.githubusercontent.com/72461048/119884136-95f30800-bf30-11eb-87a2-9acb0d553f8d.png)
+    ![clients](https://github.com/user-attachments/assets/e9a06ad2-0e49-4e19-8ed9-87f5aa772ed9)
 
  <br>
 
-![editClient](https://user-images.githubusercontent.com/72461048/119884153-9ab7bc00-bf30-11eb-805d-96f578309405.png)
-![manageRooms](https://user-images.githubusercontent.com/72461048/119884170-a0150680-bf30-11eb-830e-d62129677b64.png)
-![editRooms](https://user-images.githubusercontent.com/72461048/119884189-a5725100-bf30-11eb-805e-c647e9b09c2d.png)
+![editClient](https://github.com/user-attachments/assets/30168059-5655-4e4a-b97b-4daf66213730)
+![manageRooms](https://github.com/user-attachments/assets/56401d24-8487-4c24-9e74-87fc63fc48fc)
+![editRooms](https://github.com/user-attachments/assets/3e1859f1-357b-4bf2-8d27-d3812bcdaaa9)
 ![manageReservations](https://user-images.githubusercontent.com/72461048/119884207-a99e6e80-bf30-11eb-9474-979592a29848.png)
 ![editReserv](https://user-images.githubusercontent.com/72461048/119884221-adca8c00-bf30-11eb-8f99-fd5d73d6ef2f.png)
 
